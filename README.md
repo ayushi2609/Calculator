@@ -7,6 +7,9 @@ A basic calculator web application built with HTML, CSS, and JavaScript.
 - Addition, subtraction, multiplication, and division operations.
 - Clear button for resetting the calculator.
 
+## ScreenShots
+![calculator github](https://github.com/ayushi2609/Calculator/assets/93718986/f6a28608-eeca-4169-8ee5-dcfdcebf188e)
+
 # Learning Experience
 While developing this calculator using HTML, CSS, and JavaScript, I gained valuable insights and skills in several areas:
 
